@@ -62,3 +62,12 @@ footer {
     text-align: center;
     padding: 20px;
 }
+
+.producto:hover {
+    transform: translateY(-5px);
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: #d7b899;
+}
