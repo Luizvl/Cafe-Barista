@@ -51,7 +51,9 @@ h2 {
     flex: 1;
     background-color: #f0e6d6;
     padding: 20px;
-    border-radius: 8px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
 
 footer {
